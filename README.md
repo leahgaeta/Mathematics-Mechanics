@@ -1,2 +1,2 @@
 # Applied Mathematics in Mechanics
-Lecture notes and materials from my Applied Mathematics in Mechanics course
+These are lecture notes and other items from my Applied Mathematics in Mechanics course. Note that this is an ongoing course. The goal is to have notes & study guides added weekly.
