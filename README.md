@@ -8,7 +8,6 @@ These are lecture notes and other items from my Applied Mathematics in Mechanics
 **Literature Reviews:**
 - [Bubble Collapse & Wrinkling](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Bubble_Collapse%26Wrinkling_Q%26A.pdf)
 
-**Problem Sets:**
-
+**Problem Sets:**  
 (Note that these are uploaded only after the submission deadline has passed.)
 - [Dimensional Analysis Problem Set](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/DA_PS1.pdf)
