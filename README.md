@@ -7,8 +7,8 @@ These are lecture notes and other items from my Applied Mathematics in Mechanics
 - [Perturbation Methods](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Perturbation%20Methods.pdf)
 
 **Mathematica Notebooks:**
-- [Introduction & Basics](https://github.com/leahgaeta/Mathematics-Mechanics/blob/master/MMA1_mathematicaBasics.nb) - note that I did not create these notebooks, Professor Holmes at BU did
-- [Perturbation Example](https://github.com/leahgaeta/Mathematics-Mechanics/blob/master/MMA2_regPert_Intro.nb) - note that I did not create these notebooks, Professor Holmes at BU did
+- [Introduction & Basics](https://github.com/leahgaeta/Mathematics-Mechanics/blob/master/MMA1_mathematicaBasics.nb) - note that I did not create this notebook, Professor Holmes at BU did
+- [Perturbation Example](https://github.com/leahgaeta/Mathematics-Mechanics/blob/master/MMA2_regPert_Intro.nb) - note that I did not create this notebook, Professor Holmes at BU did
 
 **Literature Reviews:**
 - [Bubble Collapse & Wrinkling](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Bubble_Collapse%26Wrinkling_Q%26A.pdf)
