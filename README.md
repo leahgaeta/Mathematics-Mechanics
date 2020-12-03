@@ -1,5 +1,5 @@
 # Applied Mathematics in Mechanics
-These are lecture notes and other items from my Applied Mathematics in Mechanics course, taught by [Professor Douglas Holmes](https://www.bu.edu/moss/) at Boston University. Note that this is an ongoing course. The goal is to have notes & study guides added weekly.
+These are lecture notes and other items from my Applied Mathematics in Mechanics course, taught by [Professor Douglas Holmes](https://www.bu.edu/moss/) at Boston University (ME 712). This is from the Fall 2020 semester.
 
 **Topics Include:**
 - Dimensional Analysis & Scaling
@@ -16,12 +16,12 @@ These are lecture notes and other items from my Applied Mathematics in Mechanics
   - [First Variations & Geodesics](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/First%20Variations%20%26%20Geodesics.pdf)
   - [Variational Calculus (Elastica)](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Variational%20Calculus%20-%20Elastica.pdf)
   - [Lagrange Multipliers](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Lagrange%20Multipliers.pdf)
-- Dynamical Systems
+- Dynamical Systems & Stability (a small crash course)
   - [Stability & Linearity](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Linearity%20%26%20Stability.pdf)
   - [Stability & Bifurcation](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Stability%20%26%20Bifurcation.pdf)
-- Differential Geometry
-  - [Coming soon!]()
-  - [Coming soon!]()
+- Differential Geometry (a small crash course)
+  - [Differential Geometry & Tensor Analysis](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Differential%20Geometry%20%26%20Tenosr%20Analysis.pdf)
+  - [Differential Geometry & Curved Spaces](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Differential%20Geometry%20%26%20Curved%20Spaces.pdf)
 
 **Mathematica Notebooks:**
 - [Introduction & Basics](https://github.com/leahgaeta/Mathematics-Mechanics/blob/master/MMA1_mathematicaBasics.nb) - note that I did not create this notebook, Professor Holmes at BU did
