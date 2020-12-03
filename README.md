@@ -1,5 +1,5 @@
 # Applied Mathematics in Mechanics
-These are lecture notes and other items from my Applied Mathematics in Mechanics course. Note that this is an ongoing course. The goal is to have notes & study guides added weekly.
+These are lecture notes and other items from my Applied Mathematics in Mechanics course, taught by [Professor Douglas Holmes](https://www.bu.edu/moss/) at Boston University. Note that this is an ongoing course. The goal is to have notes & study guides added weekly.
 
 **Topics Include:**
 - Dimensional Analysis & Scaling
