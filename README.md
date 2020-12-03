@@ -12,7 +12,13 @@ These are lecture notes and other items from my Applied Mathematics in Mechanics
   - [Multiple Boundary Layers Problem](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Multiple%20Boundary%20Layers%20Problem.pdf)
   - [Multiple Scales: Two-Timing](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Multiple%20Scales%20Two%20Timing.pdf)
 - Variational Calculus
-- Stability & Bifurcation
+  - [Calculus of Variations]()
+  - [First Variations & Geodesics]()
+  - [Variational Calculus (Elastica)]()
+  - [Lagrange Multipliers]()
+- Dynamical Systems
+  - [Stability & Linearity]()
+  - [Stability & Bifurcation]()
 - Differential Geometry
 
 **Mathematica Notebooks:**
