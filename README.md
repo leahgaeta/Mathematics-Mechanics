@@ -7,6 +7,10 @@ These are lecture notes and other items from my Applied Mathematics in Mechanics
   - [Nondimensionalization](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Nondimensionalization.pdf)
 - Perturbation Methods
   - [Perturbation Methods](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Perturbation%20Methods.pdf)
+  - [Regular Perturbation Methods (IVP)](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Regular%20Perturbation%20IVP.pdf)
+  - [Singular Perturbation](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Singular%20Perturbation.pdf)
+  - [Multiple Boundary Layers Problem](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Multiple%20Boundary%20Layers%20Problem.pdf)
+  - [Multiple Scales: Two-Timing](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Multiple%20Scales%20Two%20Timing.pdf)
 - Variational Calculus
 - Stability & Bifurcation
 - Differential Geometry
