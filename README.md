@@ -1,5 +1,5 @@
 # Applied Mathematics in Mechanics
-These are lecture notes and other items from my Applied Mathematics in Mechanics course. Note that this is an ongoing course. The goal is to have notes & study guides added weekly. ***I've fallen a little behind on getting all notes and notebooks on the repo but hope to get back to this after the midterm***
+These are lecture notes and other items from my Applied Mathematics in Mechanics course. Note that this is an ongoing course. The goal is to have notes & study guides added weekly.
 
 **Topics Include:**
 - Dimensional Analysis & Scaling
@@ -17,15 +17,18 @@ These are lecture notes and other items from my Applied Mathematics in Mechanics
   - [Variational Calculus (Elastica)](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Variational%20Calculus%20-%20Elastica.pdf)
   - [Lagrange Multipliers](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Lagrange%20Multipliers.pdf)
 - Dynamical Systems
-  - [Stability & Linearity]()
-  - [Stability & Bifurcation]()
+  - [Stability & Linearity](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Linearity%20%26%20Stability.pdf)
+  - [Stability & Bifurcation](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Stability%20%26%20Bifurcation.pdf)
 - Differential Geometry
+  - [Coming soon!]()
+  - [Coming soon!]()
 
 **Mathematica Notebooks:**
 - [Introduction & Basics](https://github.com/leahgaeta/Mathematics-Mechanics/blob/master/MMA1_mathematicaBasics.nb) - note that I did not create this notebook, Professor Holmes at BU did
 - [Perturbation Example](https://github.com/leahgaeta/Mathematics-Mechanics/blob/master/MMA2_regPert_Intro.nb) - note that I did not create this notebook, Professor Holmes at BU did
+- ***More Mathematica notebooks to come!***
 
 **Literature Reviews:**
 - [Bubble Collapse & Wrinkling](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Bubble_Collapse%26Wrinkling_Q%26A.pdf)
-
+- [Adhesion of a Tape Loop](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Adhesion%20of%20a%20Tape%20Loop.pdf)
 
