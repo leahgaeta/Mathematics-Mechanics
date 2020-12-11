@@ -34,5 +34,5 @@ These are lecture notes and other items from my Applied Mathematics in Mechanics
 
 **Final Project:**
 - [Presentation of *Approximating the Stance Map fo the SLIP Runner Based on Perturbation Approach*](https://github.com/leahgaeta/Mathematics-Mechanics/blob/master/ME712_Final_Project.ipynb)
-- [Final Project Paper: *Approximating the Stance Map fo the SLIP Runner Based on Perturbation Approach*]()
+- [Final Project Paper: *Approximating the Stance Map fo the SLIP Runner Based on Perturbation Approach*](https://github.com/leahgaeta/Mathematics-Mechanics/blob/master/Approximating%20the%20Stance%20Map%20of%20the%20SLIP%20Runner%20Based%20on%20Perturbation%20Approach.pdf)
 
