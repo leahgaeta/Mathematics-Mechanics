@@ -32,3 +32,7 @@ These are lecture notes and other items from my Applied Mathematics in Mechanics
 - [Bubble Collapse & Wrinkling](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Bubble_Collapse%26Wrinkling_Q%26A.pdf)
 - [Adhesion of a Tape Loop](https://github.com/leahgaeta/Mathematics-Mechanics/raw/master/Adhesion%20of%20a%20Tape%20Loop.pdf)
 
+**Final Project:**
+- [Presentation of *Approximating the Stance Map fo the SLIP Runner Based on Perturbation Approach*](https://github.com/leahgaeta/Mathematics-Mechanics/blob/master/ME712_Final_Project.ipynb)
+- [Final Project Paper: *Approximating the Stance Map fo the SLIP Runner Based on Perturbation Approach*]()
+
